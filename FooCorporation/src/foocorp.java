@@ -7,6 +7,8 @@ public class foocorp {
 		double hours_over;
 		double payment;
 		
+		Foo Bar
+		
 		if(hours_worked > 60.0) {
 			System.out.println("Max hours allowed is 60. Please reenter hours worked.");
 			return;
